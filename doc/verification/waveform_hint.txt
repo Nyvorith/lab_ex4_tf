@@ -1,0 +1,4 @@
+PASS adjustment hint: all 256 decimal values without leading zeros, BRIGHT/CONTRAST identity, frame-only updates, initial silence, repeat refresh, exact expiry, preview/commit/invalid/fade/blanking hiding and RGB/HS/VS/DE pipeline
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_adjust_hint.sv:76: $finish called at 38200000 (1ps)
+PASS adjustment hint top: actual KEY2/KEY4 holds, synchronized applied values match displayed values, final HDMI panel, preview adjustment disabled, reset defaults and no replay
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_adjust_hint_top.sv:47: $finish called at 4100000 (1ps)

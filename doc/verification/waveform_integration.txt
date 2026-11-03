@@ -1,0 +1,2 @@
+PASS PCM waveform: 25200 pixel reference checks, time-ordered signed samples, decimation, positive/negative extremes, silence, small signals, connected trace, frame-atomic bank publication, missing-sample invalidation, low-brightness blend, subtitle/HDMI alignment, all visibility gates
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_guidance_wave_top.sv:116: $finish called at 145820000 (1ps)

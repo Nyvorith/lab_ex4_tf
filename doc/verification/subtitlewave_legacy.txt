@@ -1,0 +1,2 @@
+PASS waveform refactor: old-reference pixel equivalence for DECIMATE 1/12; full/partial frames, signed extremes/remainders, stalls, blanking and enable; DECIMATE300 interval and publication
+src/sim/tb_waveform_refactor.sv:97: $finish called at 877750000 (1ps)

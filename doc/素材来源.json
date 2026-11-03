@@ -1,0 +1,107 @@
+{
+  "theme": "光与色：从自然到思想",
+  "images": [
+    {
+      "file": "PIC1.BMP",
+      "title": "埃特勒塔的大拱门",
+      "artist": "克劳德·莫奈",
+      "year": 1882,
+      "source_url": "https://uploads6.wikiart.org/images/claude-monet/the-manneport.jpg",
+      "page_url": "https://www.wikiart.org/en/claude-monet/the-manneport",
+      "source_size": [
+        1600,
+        1200
+      ],
+      "tf_size": [
+        640,
+        480
+      ],
+      "crop": false,
+      "sha256": "9640DF47AF3B9949E98EA84359DC0D3E769BFB7A7098F9FC148B27EE38697CC0"
+    },
+    {
+      "file": "PIC2.BMP",
+      "title": "神奈川冲浪里",
+      "artist": "葛饰北斋",
+      "museum_title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+      "museum_artist": "Katsushika Hokusai",
+      "date": "ca. 1830–32",
+      "source_size": [
+        3859,
+        2594
+      ],
+      "tf_size": [
+        960,
+        645
+      ],
+      "fitted_size": [
+        640,
+        430
+      ],
+      "museum_url": "https://www.metmuseum.org/art/collection/search/45434",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+      "is_public_domain": true,
+      "rights": "The Met Open Access / CC0",
+      "source_sha256": "CBB9988F2F18B9180A1CC0CF5DBB0E3BBF8F2E85D17930CF6CA9AB36FAC36303",
+      "sha256": "4A91FB9E61276924E37A15AE2DAE247A0D8C4D53C3B224367E23D18464642BF2",
+      "bytes": 1857654
+    },
+    {
+      "file": "PIC3.BMP",
+      "title": "麦田与柏树",
+      "artist": "文森特·梵高",
+      "museum_title": "Wheat Field with Cypresses",
+      "museum_artist": "Vincent van Gogh",
+      "date": "1889",
+      "source_size": [
+        4000,
+        3184
+      ],
+      "tf_size": [
+        960,
+        764
+      ],
+      "fitted_size": [
+        603,
+        480
+      ],
+      "museum_url": "https://www.metmuseum.org/art/collection/search/436535",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-42549-001.jpg",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+      "is_public_domain": true,
+      "rights": "The Met Open Access / CC0",
+      "source_sha256": "B46D02A42FD3BB13B022CEFC5BEAA997B1D7A28CD7B53E4413D940AA0DC4014D",
+      "sha256": "818793EF20FBB73F5282A5FC945EF3780D951D23DD43519F299E2F14D3A2304B",
+      "bytes": 2200374
+    },
+    {
+      "file": "PIC4.BMP",
+      "title": "苏格拉底之死",
+      "artist": "雅克·路易·大卫",
+      "museum_title": "The Death of Socrates",
+      "museum_artist": "Jacques Louis David",
+      "date": "1787",
+      "source_size": [
+        4000,
+        2663
+      ],
+      "tf_size": [
+        960,
+        639
+      ],
+      "fitted_size": [
+        640,
+        426
+      ],
+      "museum_url": "https://www.metmuseum.org/art/collection/search/436105",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-13139-001.jpg",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436105",
+      "is_public_domain": true,
+      "rights": "The Met Open Access / CC0",
+      "source_sha256": "EAFF5A04103361FED9FBA6F10EA7BED80CCDC595D664B6997C6BD32F0EEE06A6",
+      "sha256": "7F108042AFF29797368458C4BDE67B206F55F3E27F93A0DC47FD65A236A312CD",
+      "bytes": 1840374
+    }
+  ]
+}

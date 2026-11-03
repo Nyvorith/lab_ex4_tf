@@ -1,0 +1,2 @@
+PASS speech captions: 4667 probes at frame cadence and every word boundary against independent rational CSV oracle, within one pixel, monotonic motion, stalls, auto hide, preview, stop/restart/mute
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_speech_caption.sv:58: $finish called at 13491880000 (1ps)

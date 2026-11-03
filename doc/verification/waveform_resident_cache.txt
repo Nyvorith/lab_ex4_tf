@@ -1,0 +1,8 @@
+PASS safe adjustment: sustained hold stays bounded and cycles through defaults
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_safe_adjust.sv:24: $finish called at 1920000 (1ps)
+PASS resident keys: distinct 1000/500Hz control clocks, short release, near-threshold and repeating long holds without short action
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_resident_keys.sv:26: $finish called at 36400000 (1ps)
+PASS resident cache: four distinct frames, dual-completion, no TF reads after warmup, manual fade/auto reveal/preview fade, fade interlock, cold-key recovery, invalidation
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_resident_cache.sv:120: $finish called at 20450000 (1ps)
+PASS resident memory: 1228800 actual writes and 1228800 exact pixel readbacks in four full-size banks, 40/25MHz clocks, six-cycle SDRAM model
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_resident_memory.sv:69: $finish called at 98173340000 (1ps)

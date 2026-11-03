@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "content_status": "光与色：从自然到思想；莫奈开场，四站主题导览",
+  "catalog_sha256": "dd9f0e4bfb317d66cca3689ea3899bb6d449faf13e80f47c1ed1069e7f98b55d",
+  "font": {
+    "file": "msyh.ttc",
+    "collection_index": 0,
+    "sha256": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+    "size_px": 15,
+    "pillow": "12.3.0",
+    "threshold": 128,
+    "shared_y_offset": -3
+  },
+  "layout": {
+    "cell": [
+      16,
+      16
+    ],
+    "row_address": "glyph_id * 16 + y",
+    "leftmost_bit": 15,
+    "text_address": "picture_index * 128 + character_index",
+    "space_id": 0,
+    "artwork_label_offsets": [
+      96,
+      112
+    ],
+    "termination": "explicit length; ID 0 is space, not terminator"
+  },
+  "storage": {
+    "glyphs": 183,
+    "glyph_rows_padded": 4096,
+    "glyph_bits": 65536,
+    "text_bytes": 512,
+    "text_bits": 4096,
+    "total_bits": 69632,
+    "estimated_bram9k": 9,
+    "estimate_only": "Actual inference, utilization and timing require TD synthesis"
+  },
+  "captions": [
+    {
+      "picture": "PIC1.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO1.txt",
+      "artwork_label": [
+        "埃特勒塔的大拱门",
+        "克劳德·莫奈 1882"
+      ],
+      "preview_lookpoint": "光影初见：留意岩岸明暗与海面色彩",
+      "text": "欢迎来到光与色的名画之旅。第一站，光影初见，欣赏莫奈的埃特勒塔的大拱门。请留意岩岸的明暗变化，以及海面蓝绿交织的色彩，看看画家怎样用光线表现自然。",
+      "picture_index": 0,
+      "length": 73,
+      "width_px": 1168
+    },
+    {
+      "picture": "PIC2.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO2.txt",
+      "artwork_label": [
+        "神奈川冲浪里",
+        "葛饰北斋 约1830-1832"
+      ],
+      "preview_lookpoint": "浪潮律动：比较近处巨浪与远方富士山",
+      "text": "第二站，浪潮律动，欣赏北斋的神奈川冲浪里。巨浪卷起，小船在浪间前行。请比较近处巨浪与远方富士山，留意弯曲的浪花线条，感受画面中的节奏与力量。",
+      "picture_index": 1,
+      "length": 70,
+      "width_px": 1120
+    },
+    {
+      "picture": "PIC3.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO3.txt",
+      "artwork_label": [
+        "麦田与柏树",
+        "文森特·梵高 1889"
+      ],
+      "preview_lookpoint": "色彩情绪：观察云朵和树木的流动线条",
+      "text": "第三站，色彩情绪，来到梵高的麦田与柏树。金黄麦田、深色柏树与蓝色天空，在旋转的笔触中呼应。请留意云朵与树木的流动线条，感受画家如何用色彩表达情绪。",
+      "picture_index": 2,
+      "length": 73,
+      "width_px": 1168
+    },
+    {
+      "picture": "PIC4.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO4.txt",
+      "artwork_label": [
+        "苏格拉底之死",
+        "雅克·路易·大卫 1787"
+      ],
+      "preview_lookpoint": "理性回响：观察人物手势与群像布局",
+      "text": "最后一站，理性回响，欣赏大卫的苏格拉底之死。画中人物的手势、明暗与群像布局，引导我们从自然的光与色转向人的思想。请观察苏格拉底举起的手，感受理性与信念的力量。",
+      "picture_index": 3,
+      "length": 79,
+      "width_px": 1264
+    }
+  ],
+  "preview": {
+    "band_y": [
+      432,
+      479
+    ],
+    "text_y": 448,
+    "viewport_x": [
+      16,
+      623
+    ],
+    "blank_gap_px": 608,
+    "gif_step_px": 16,
+    "gif_duration_ms": 200,
+    "note": "Offline layout reference; GIF sampling speed is not FPGA frame timing"
+  },
+  "preview_card": {
+    "characters": 256,
+    "extra_text_bits": 2048,
+    "glyphs_shared": true,
+    "panel": [
+      48,
+      352,
+      544,
+      104
+    ],
+    "text_rows_y": [
+      364,
+      388,
+      412
+    ],
+    "thumbnail_size": [
+      192,
+      144
+    ],
+    "note": "Offline illustration; board verification pending"
+  },
+  "backgrounds": [
+    {
+      "file": "PIC1.BMP",
+      "sha256": "9640df47af3b9949e98ea84359dc0d3e769bfb7a7098f9fc148b27ee38697cc0"
+    },
+    {
+      "file": "PIC2.BMP",
+      "sha256": "93575c7b7e5b7e404a75d57e0224c24464f485b21356af800f459574e40a3546"
+    },
+    {
+      "file": "PIC3.BMP",
+      "sha256": "acd8c1acb5073395a3b62fc0de474a330e1d2e0a9e1bf2979049d6e9b82fd370"
+    },
+    {
+      "file": "PIC4.BMP",
+      "sha256": "6520b08ca1968bff53001c0c14f3c9ce492ea8b71c67b00e7b7cb36ddf6c59b5"
+    }
+  ],
+  "checks": {
+    "unclipped_glyphs": true,
+    "nonempty_nonspace": true,
+    "no_duplicate_nonspace_glyphs": true,
+    "rom_pixel_roundtrip": true,
+    "text_roundtrip_and_padding": true
+  },
+  "files": {
+    "all_captions.png": "1d498ca697e03623b53c0eb9fe93ba495b283f9d229c923e840a286ae30f40c7",
+    "artwork_label_pic1.png": "ad06c9aa0151e5444cd0645b537bba0f01eb3eb38076ca8a1dbddd1640ea0b5d",
+    "artwork_label_pic2.png": "29889400f3e12c0f071ec6ad131b76884bb01c3f5c5f682c8d40af3093a09c2f",
+    "artwork_label_pic3.png": "ae4bd020825dca1d6f280fa4403c08c5d2a8ba9ac35bc3cf2cdb77b816fd6ad7",
+    "artwork_label_pic4.png": "75c9ad24dd29e51e717648857be0e69ecc5af1535aa769083b45ee573f023f4d",
+    "caption_config.vh": "512ae8dedb5419d3219cb5e9c808bf0c0a4a0a7e421067a77c13466ded104c92",
+    "exhibit_caption_roms.v": "287646997ac348fb72025527209269cfc8b79d55ed130d5e33926c8209b1a79f",
+    "glyph_atlas.png": "6310b85b3f8ef1745c72c667e3a182f4aca1f334b77feb7fbffabcff132ef398",
+    "glyph_map.json": "0c046e9815827507d4cc95ef33e86747acdd06e8ce13c4e6cf9394cfe14b750a",
+    "glyph_rows.hex": "3da0fd4b78d654bc833a017c6a95e7370514b8fb59e99b975823cf782418dd25",
+    "preview_card_ids.hex": "2ddd07aa88df37c15ea7a07eefcd66830a735f4154bb0b00f37ec283bb2f82a3",
+    "preview_card_pic1.png": "b55ff303cf02fbea0f1cc7d4f22266fafc6d1fff7296965f5123cab061c19410",
+    "preview_card_pic2.png": "216e0bea75d777a9cd2c8ad4f96f9260ca6c42854ff20d048dc9db46aa1469eb",
+    "preview_card_pic3.png": "855eddcef34554c0c566314017d4b200f51143fa1c58afd9d2f46d14ddb7ff01",
+    "preview_card_pic4.png": "7997fed1b5651df9a0823f1d556c199f713fa91bf7b10b9981cef63d21c685ce",
+    "preview_pic1.png": "7698676071d13d696de347ab37bfbebf993865ffe92c1230ae7020b535b23393",
+    "preview_pic2.png": "efdd1438fe17422bec96a17f5703aeae8d35ba4cd3eec992024132cbfd3019db",
+    "preview_pic3.png": "41daea0d19dfed5e8946d697e476c341b065c44f2deaeb0d7ced5e893016595e",
+    "preview_pic4.png": "6a9f5cf29bc08fab8148dc6c1ab741115632e171869053d7524f21620f3c9291",
+    "scroll_preview.gif": "e97c3e8606b50167b9ad02ceeb26ffb5bbdb71147a408799815f31e60699b147",
+    "text_ids.hex": "0d8b10b33513c38062f97864422d3f843c535288e5b16b0133c725d2ecb9cd92"
+  }
+}

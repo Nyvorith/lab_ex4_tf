@@ -1,0 +1,4 @@
+PASS waveform: decimation, signed PCM, edges, blanking, disable, bank swaps, partial frame, silence
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_audio_waveform.sv:110: $finish called at 32590000 (1ps)
+PASS top waveform: WAV tap, x-origin, OSD-to-waveform-to-adapter, enable, one-cycle RGB/DE alignment
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_top_audio_waveform.sv:89: $finish called at 34960000 (1ps)

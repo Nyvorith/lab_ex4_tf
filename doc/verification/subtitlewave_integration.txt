@@ -1,0 +1,2 @@
+PASS PCM waveform: 55440 pixel reference checks, per-frame publication, stable within-frame snapshots, immediate missing-sample invalidation and recovery, signed PCM, decimation, extremes, silence, single-pixel interpolated trace, low-brightness blend, subtitle/HDMI alignment, visibility gates
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_guidance_wave_top.sv:135: $finish called at 269100000 (1ps)

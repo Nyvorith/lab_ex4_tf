@@ -1,0 +1,894 @@
+{
+  "source": "System.Speech Huihui Rate1 Volume80; regenerated PCM hashes match originals; 48k event time corrected /3 and cross-checked against 16k native within 2ms",
+  "sample_rate": 48000,
+  "interpolation": "Linear between speech events, Q20 reciprocal rate; integer result within one pixel of rational interpolation; edge clamped",
+  "events": [
+    {
+      "picture": 0,
+      "pcm_sha256": "52636606B851DFA6DC1F1670A909E218DB8046F3740E80B3F50587BE04EB7F30",
+      "samples": 814530,
+      "text": "欢迎来到光与色的名画之旅。第一站，光影初见，欣赏莫奈的埃特勒塔的大拱门。请留意岩岸的明暗变化，以及海面蓝绿交织的色彩，看看画家怎样用光线表现自然。",
+      "events": [
+        {
+          "sample": 3861,
+          "character": 0,
+          "scroll": 0
+        },
+        {
+          "sample": 26355,
+          "character": 2,
+          "scroll": 0
+        },
+        {
+          "sample": 45822,
+          "character": 4,
+          "scroll": 0
+        },
+        {
+          "sample": 55950,
+          "character": 5,
+          "scroll": 0
+        },
+        {
+          "sample": 62631,
+          "character": 6,
+          "scroll": 0
+        },
+        {
+          "sample": 71868,
+          "character": 7,
+          "scroll": 0
+        },
+        {
+          "sample": 79977,
+          "character": 8,
+          "scroll": 0
+        },
+        {
+          "sample": 99816,
+          "character": 10,
+          "scroll": 0
+        },
+        {
+          "sample": 107421,
+          "character": 11,
+          "scroll": 0
+        },
+        {
+          "sample": 157596,
+          "character": 13,
+          "scroll": 0
+        },
+        {
+          "sample": 171966,
+          "character": 15,
+          "scroll": 0
+        },
+        {
+          "sample": 201795,
+          "character": 17,
+          "scroll": 0
+        },
+        {
+          "sample": 211659,
+          "character": 18,
+          "scroll": 0
+        },
+        {
+          "sample": 220044,
+          "character": 19,
+          "scroll": 16
+        },
+        {
+          "sample": 259992,
+          "character": 22,
+          "scroll": 64
+        },
+        {
+          "sample": 280878,
+          "character": 24,
+          "scroll": 96
+        },
+        {
+          "sample": 289230,
+          "character": 25,
+          "scroll": 112
+        },
+        {
+          "sample": 296508,
+          "character": 26,
+          "scroll": 128
+        },
+        {
+          "sample": 301431,
+          "character": 27,
+          "scroll": 144
+        },
+        {
+          "sample": 310989,
+          "character": 28,
+          "scroll": 160
+        },
+        {
+          "sample": 322365,
+          "character": 29,
+          "scroll": 176
+        },
+        {
+          "sample": 330459,
+          "character": 30,
+          "scroll": 192
+        },
+        {
+          "sample": 339600,
+          "character": 31,
+          "scroll": 208
+        },
+        {
+          "sample": 348207,
+          "character": 32,
+          "scroll": 224
+        },
+        {
+          "sample": 358107,
+          "character": 33,
+          "scroll": 240
+        },
+        {
+          "sample": 416853,
+          "character": 36,
+          "scroll": 288
+        },
+        {
+          "sample": 427407,
+          "character": 37,
+          "scroll": 304
+        },
+        {
+          "sample": 445362,
+          "character": 39,
+          "scroll": 336
+        },
+        {
+          "sample": 455295,
+          "character": 40,
+          "scroll": 352
+        },
+        {
+          "sample": 463887,
+          "character": 41,
+          "scroll": 368
+        },
+        {
+          "sample": 471834,
+          "character": 42,
+          "scroll": 384
+        },
+        {
+          "sample": 491784,
+          "character": 44,
+          "scroll": 416
+        },
+        {
+          "sample": 529989,
+          "character": 47,
+          "scroll": 464
+        },
+        {
+          "sample": 549036,
+          "character": 49,
+          "scroll": 496
+        },
+        {
+          "sample": 567828,
+          "character": 51,
+          "scroll": 528
+        },
+        {
+          "sample": 576942,
+          "character": 52,
+          "scroll": 544
+        },
+        {
+          "sample": 587019,
+          "character": 53,
+          "scroll": 560
+        },
+        {
+          "sample": 604170,
+          "character": 55,
+          "scroll": 560
+        },
+        {
+          "sample": 609123,
+          "character": 56,
+          "scroll": 560
+        },
+        {
+          "sample": 651129,
+          "character": 59,
+          "scroll": 560
+        },
+        {
+          "sample": 669138,
+          "character": 61,
+          "scroll": 560
+        },
+        {
+          "sample": 688965,
+          "character": 63,
+          "scroll": 560
+        },
+        {
+          "sample": 706794,
+          "character": 65,
+          "scroll": 560
+        },
+        {
+          "sample": 717729,
+          "character": 66,
+          "scroll": 560
+        },
+        {
+          "sample": 740325,
+          "character": 68,
+          "scroll": 560
+        },
+        {
+          "sample": 759966,
+          "character": 70,
+          "scroll": 560
+        }
+      ]
+    },
+    {
+      "picture": 1,
+      "pcm_sha256": "59ADD7DB00C740261A86E6E972D4CF510E63C6C70347F1EF64A7E72763E0C29C",
+      "samples": 819402,
+      "text": "第二站，浪潮律动，欣赏北斋的神奈川冲浪里。巨浪卷起，小船在浪间前行。请比较近处巨浪与远方富士山，留意弯曲的浪花线条，感受画面中的节奏与力量。",
+      "events": [
+        {
+          "sample": 3648,
+          "character": 0,
+          "scroll": 0
+        },
+        {
+          "sample": 19068,
+          "character": 2,
+          "scroll": 0
+        },
+        {
+          "sample": 49233,
+          "character": 4,
+          "scroll": 0
+        },
+        {
+          "sample": 69684,
+          "character": 6,
+          "scroll": 0
+        },
+        {
+          "sample": 77130,
+          "character": 7,
+          "scroll": 0
+        },
+        {
+          "sample": 105519,
+          "character": 9,
+          "scroll": 0
+        },
+        {
+          "sample": 130035,
+          "character": 11,
+          "scroll": 0
+        },
+        {
+          "sample": 138630,
+          "character": 12,
+          "scroll": 0
+        },
+        {
+          "sample": 146364,
+          "character": 13,
+          "scroll": 0
+        },
+        {
+          "sample": 154551,
+          "character": 14,
+          "scroll": 0
+        },
+        {
+          "sample": 165333,
+          "character": 15,
+          "scroll": 0
+        },
+        {
+          "sample": 173097,
+          "character": 16,
+          "scroll": 0
+        },
+        {
+          "sample": 186480,
+          "character": 17,
+          "scroll": 0
+        },
+        {
+          "sample": 206136,
+          "character": 19,
+          "scroll": 16
+        },
+        {
+          "sample": 255468,
+          "character": 21,
+          "scroll": 48
+        },
+        {
+          "sample": 272760,
+          "character": 23,
+          "scroll": 80
+        },
+        {
+          "sample": 282744,
+          "character": 24,
+          "scroll": 96
+        },
+        {
+          "sample": 312303,
+          "character": 26,
+          "scroll": 128
+        },
+        {
+          "sample": 337482,
+          "character": 28,
+          "scroll": 160
+        },
+        {
+          "sample": 348240,
+          "character": 29,
+          "scroll": 176
+        },
+        {
+          "sample": 358185,
+          "character": 30,
+          "scroll": 192
+        },
+        {
+          "sample": 366852,
+          "character": 31,
+          "scroll": 208
+        },
+        {
+          "sample": 430593,
+          "character": 34,
+          "scroll": 256
+        },
+        {
+          "sample": 441330,
+          "character": 35,
+          "scroll": 272
+        },
+        {
+          "sample": 460050,
+          "character": 37,
+          "scroll": 304
+        },
+        {
+          "sample": 478515,
+          "character": 39,
+          "scroll": 336
+        },
+        {
+          "sample": 496746,
+          "character": 41,
+          "scroll": 368
+        },
+        {
+          "sample": 504987,
+          "character": 42,
+          "scroll": 384
+        },
+        {
+          "sample": 526026,
+          "character": 44,
+          "scroll": 416
+        },
+        {
+          "sample": 543510,
+          "character": 46,
+          "scroll": 448
+        },
+        {
+          "sample": 575493,
+          "character": 48,
+          "scroll": 480
+        },
+        {
+          "sample": 595530,
+          "character": 50,
+          "scroll": 512
+        },
+        {
+          "sample": 613269,
+          "character": 52,
+          "scroll": 512
+        },
+        {
+          "sample": 621438,
+          "character": 53,
+          "scroll": 512
+        },
+        {
+          "sample": 640092,
+          "character": 55,
+          "scroll": 512
+        },
+        {
+          "sample": 683733,
+          "character": 58,
+          "scroll": 512
+        },
+        {
+          "sample": 702600,
+          "character": 60,
+          "scroll": 512
+        },
+        {
+          "sample": 721497,
+          "character": 62,
+          "scroll": 512
+        },
+        {
+          "sample": 730176,
+          "character": 63,
+          "scroll": 512
+        },
+        {
+          "sample": 738180,
+          "character": 64,
+          "scroll": 512
+        },
+        {
+          "sample": 757866,
+          "character": 66,
+          "scroll": 512
+        },
+        {
+          "sample": 766947,
+          "character": 67,
+          "scroll": 512
+        }
+      ]
+    },
+    {
+      "picture": 2,
+      "pcm_sha256": "E56F36E7D9874BB66AB599DAAA8E6B226B4D95C2A51A482FF3D79E329EBE5663",
+      "samples": 834048,
+      "text": "第三站，色彩情绪，来到梵高的麦田与柏树。金黄麦田、深色柏树与蓝色天空，在旋转的笔触中呼应。请留意云朵与树木的流动线条，感受画家如何用色彩表达情绪。",
+      "events": [
+        {
+          "sample": 3648,
+          "character": 0,
+          "scroll": 0
+        },
+        {
+          "sample": 21297,
+          "character": 2,
+          "scroll": 0
+        },
+        {
+          "sample": 50910,
+          "character": 4,
+          "scroll": 0
+        },
+        {
+          "sample": 70578,
+          "character": 6,
+          "scroll": 0
+        },
+        {
+          "sample": 110799,
+          "character": 9,
+          "scroll": 0
+        },
+        {
+          "sample": 131376,
+          "character": 11,
+          "scroll": 0
+        },
+        {
+          "sample": 150165,
+          "character": 13,
+          "scroll": 0
+        },
+        {
+          "sample": 157752,
+          "character": 14,
+          "scroll": 0
+        },
+        {
+          "sample": 180264,
+          "character": 16,
+          "scroll": 0
+        },
+        {
+          "sample": 188850,
+          "character": 17,
+          "scroll": 0
+        },
+        {
+          "sample": 247125,
+          "character": 20,
+          "scroll": 32
+        },
+        {
+          "sample": 266256,
+          "character": 22,
+          "scroll": 64
+        },
+        {
+          "sample": 306546,
+          "character": 25,
+          "scroll": 112
+        },
+        {
+          "sample": 325470,
+          "character": 27,
+          "scroll": 144
+        },
+        {
+          "sample": 345861,
+          "character": 29,
+          "scroll": 176
+        },
+        {
+          "sample": 354807,
+          "character": 30,
+          "scroll": 192
+        },
+        {
+          "sample": 372420,
+          "character": 32,
+          "scroll": 224
+        },
+        {
+          "sample": 414000,
+          "character": 35,
+          "scroll": 272
+        },
+        {
+          "sample": 423468,
+          "character": 36,
+          "scroll": 288
+        },
+        {
+          "sample": 443082,
+          "character": 38,
+          "scroll": 320
+        },
+        {
+          "sample": 448332,
+          "character": 39,
+          "scroll": 336
+        },
+        {
+          "sample": 464412,
+          "character": 41,
+          "scroll": 368
+        },
+        {
+          "sample": 475293,
+          "character": 42,
+          "scroll": 384
+        },
+        {
+          "sample": 532851,
+          "character": 45,
+          "scroll": 432
+        },
+        {
+          "sample": 543342,
+          "character": 46,
+          "scroll": 448
+        },
+        {
+          "sample": 557685,
+          "character": 48,
+          "scroll": 480
+        },
+        {
+          "sample": 577317,
+          "character": 50,
+          "scroll": 512
+        },
+        {
+          "sample": 585825,
+          "character": 51,
+          "scroll": 528
+        },
+        {
+          "sample": 603033,
+          "character": 53,
+          "scroll": 560
+        },
+        {
+          "sample": 611235,
+          "character": 54,
+          "scroll": 560
+        },
+        {
+          "sample": 628935,
+          "character": 56,
+          "scroll": 560
+        },
+        {
+          "sample": 672138,
+          "character": 59,
+          "scroll": 560
+        },
+        {
+          "sample": 691218,
+          "character": 61,
+          "scroll": 560
+        },
+        {
+          "sample": 711057,
+          "character": 63,
+          "scroll": 560
+        },
+        {
+          "sample": 727578,
+          "character": 65,
+          "scroll": 560
+        },
+        {
+          "sample": 737907,
+          "character": 66,
+          "scroll": 560
+        },
+        {
+          "sample": 759969,
+          "character": 68,
+          "scroll": 560
+        },
+        {
+          "sample": 777564,
+          "character": 70,
+          "scroll": 560
+        }
+      ]
+    },
+    {
+      "picture": 3,
+      "pcm_sha256": "06127F53685C4D2F320C2A1AA2B5D1C1A6BA4A87BAB357178B22009E86697F94",
+      "samples": 867762,
+      "text": "最后一站，理性回响，欣赏大卫的苏格拉底之死。画中人物的手势、明暗与群像布局，引导我们从自然的光与色转向人的思想。请观察苏格拉底举起的手，感受理性与信念的力量。",
+      "events": [
+        {
+          "sample": 3915,
+          "character": 0,
+          "scroll": 0
+        },
+        {
+          "sample": 22032,
+          "character": 2,
+          "scroll": 0
+        },
+        {
+          "sample": 29112,
+          "character": 3,
+          "scroll": 0
+        },
+        {
+          "sample": 58761,
+          "character": 5,
+          "scroll": 0
+        },
+        {
+          "sample": 77793,
+          "character": 7,
+          "scroll": 0
+        },
+        {
+          "sample": 118926,
+          "character": 10,
+          "scroll": 0
+        },
+        {
+          "sample": 140655,
+          "character": 12,
+          "scroll": 0
+        },
+        {
+          "sample": 156906,
+          "character": 14,
+          "scroll": 0
+        },
+        {
+          "sample": 165114,
+          "character": 15,
+          "scroll": 0
+        },
+        {
+          "sample": 197979,
+          "character": 19,
+          "scroll": 16
+        },
+        {
+          "sample": 205593,
+          "character": 20,
+          "scroll": 32
+        },
+        {
+          "sample": 258309,
+          "character": 22,
+          "scroll": 64
+        },
+        {
+          "sample": 268659,
+          "character": 23,
+          "scroll": 80
+        },
+        {
+          "sample": 280161,
+          "character": 24,
+          "scroll": 96
+        },
+        {
+          "sample": 296832,
+          "character": 26,
+          "scroll": 128
+        },
+        {
+          "sample": 301758,
+          "character": 27,
+          "scroll": 144
+        },
+        {
+          "sample": 341151,
+          "character": 30,
+          "scroll": 192
+        },
+        {
+          "sample": 361869,
+          "character": 32,
+          "scroll": 224
+        },
+        {
+          "sample": 369954,
+          "character": 33,
+          "scroll": 240
+        },
+        {
+          "sample": 383064,
+          "character": 34,
+          "scroll": 256
+        },
+        {
+          "sample": 394287,
+          "character": 35,
+          "scroll": 272
+        },
+        {
+          "sample": 432492,
+          "character": 38,
+          "scroll": 320
+        },
+        {
+          "sample": 450618,
+          "character": 40,
+          "scroll": 352
+        },
+        {
+          "sample": 466779,
+          "character": 42,
+          "scroll": 384
+        },
+        {
+          "sample": 479064,
+          "character": 43,
+          "scroll": 400
+        },
+        {
+          "sample": 494940,
+          "character": 45,
+          "scroll": 432
+        },
+        {
+          "sample": 500088,
+          "character": 46,
+          "scroll": 448
+        },
+        {
+          "sample": 511710,
+          "character": 47,
+          "scroll": 464
+        },
+        {
+          "sample": 519498,
+          "character": 48,
+          "scroll": 480
+        },
+        {
+          "sample": 530316,
+          "character": 49,
+          "scroll": 496
+        },
+        {
+          "sample": 551160,
+          "character": 51,
+          "scroll": 528
+        },
+        {
+          "sample": 559722,
+          "character": 52,
+          "scroll": 544
+        },
+        {
+          "sample": 564219,
+          "character": 53,
+          "scroll": 560
+        },
+        {
+          "sample": 625869,
+          "character": 56,
+          "scroll": 608
+        },
+        {
+          "sample": 637272,
+          "character": 57,
+          "scroll": 624
+        },
+        {
+          "sample": 658422,
+          "character": 59,
+          "scroll": 656
+        },
+        {
+          "sample": 693246,
+          "character": 63,
+          "scroll": 656
+        },
+        {
+          "sample": 709878,
+          "character": 65,
+          "scroll": 656
+        },
+        {
+          "sample": 714630,
+          "character": 66,
+          "scroll": 656
+        },
+        {
+          "sample": 745647,
+          "character": 68,
+          "scroll": 656
+        },
+        {
+          "sample": 764430,
+          "character": 70,
+          "scroll": 656
+        },
+        {
+          "sample": 783243,
+          "character": 72,
+          "scroll": 656
+        },
+        {
+          "sample": 791922,
+          "character": 73,
+          "scroll": 656
+        },
+        {
+          "sample": 810582,
+          "character": 75,
+          "scroll": 656
+        },
+        {
+          "sample": 815556,
+          "character": 76,
+          "scroll": 656
+        }
+      ]
+    }
+  ]
+}

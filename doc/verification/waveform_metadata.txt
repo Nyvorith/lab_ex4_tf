@@ -1,0 +1,26 @@
+PASS manual ready gate: cold/unrelated warmup priority, both completions before fade, reserved bank, no black TF wait/reread, original fade-out/in, cancel/failure/reset
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_manual_ready_gate.sv:97: $finish called at 4720000 (1ps)
+PASS focused prefetch: ready/in-flight confirmation without reread, stale focus rejection, no early commit, metadata, failure fallback, reset
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_preview_focus_prefetch.sv:86: $finish called at 3260000 (1ps)
+PASS warmup: all caches without full-frame commit, delayed/cancelled entry, complete wall, next prefetch restored
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_preview_warmup.sv:51: $finish called at 870000 (1ps)
+PASS manual prefetch + actual fade: auto off, old image retained during preload, no early commit, four-step fade-out/in, no wipe, no second load at black
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_manual_prefetch_fade.sv:52: $finish called at 1876000 (1ps)
+PASS autoplay prefetch: inactive bank guard, both completions, no early commit, no reload on expiry, late expiry queued, stop race, manual reuse, preview, wrap, failed preload retry/fallback, reset
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_autoplay_prefetch.sv:99: $finish called at 4840000 (1ps)
+PASS two-second autoplay: 119 frames, all pictures, exact timed progress, one-shot, preview reset, mode entry/cancel, commit race, invalid display, colors/DE
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_exhibit_reading.sv:78: $finish called at 204510000 (1ps)
+PASS recovery: async clocks, hold/retry, failure fade-in, no synthetic request, next request, success/failure collision
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_exhibit_recovery.sv:54: $finish called at 3248000 (1ps)
+PASS exhibition status: legacy status and number-only 1..4, no status/mode/error/audio glyphs, frame latch, color, bounds, DE
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_exhibit_status.sv:79: $finish called at 4426000 (1ps)
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_top_exhibit_status.sv:49: vvp.tgt sorry: procedural continuous assignments are not yet fully supported. The RHS of this assignment will only be evaluated once, at the time the assignment statement is executed.
+PASS top clean display: all four indices, 25600 upper-left pixels unchanged, status CDC retained, black invalid frame and frame-boundary startup
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_top_exhibit_status.sv:61: $finish called at 515300000 (1ps)
+PASS top loader backpressure: held VALID at full FIFO, 2496 stalled cycles, 307200 exact writes, no sticky error
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_top_loader_backpressure.sv:53: $finish called at 6204700000 (1ps)
+PASS metadata: English SRC/OUT top-right overlay, leading zeros hidden
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_exhibit_metadata.sv:22: $finish called at 194000 (1ps)
+PASS controller metadata: success-only latch and timeout retention
+PASS: mode entry, unloaded selection guard, prefetch, focus, direct selection, cancel, long/short isolation
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_lesson15_control.sv:158: $finish called at 31840000 (1ps)

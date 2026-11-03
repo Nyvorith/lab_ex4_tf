@@ -1,0 +1,917 @@
+[
+  {
+    "id": 0,
+    "character": " ",
+    "unicode": "U+0020"
+  },
+  {
+    "id": 1,
+    "character": "欢",
+    "unicode": "U+6B22"
+  },
+  {
+    "id": 2,
+    "character": "迎",
+    "unicode": "U+8FCE"
+  },
+  {
+    "id": 3,
+    "character": "来",
+    "unicode": "U+6765"
+  },
+  {
+    "id": 4,
+    "character": "到",
+    "unicode": "U+5230"
+  },
+  {
+    "id": 5,
+    "character": "光",
+    "unicode": "U+5149"
+  },
+  {
+    "id": 6,
+    "character": "与",
+    "unicode": "U+4E0E"
+  },
+  {
+    "id": 7,
+    "character": "色",
+    "unicode": "U+8272"
+  },
+  {
+    "id": 8,
+    "character": "的",
+    "unicode": "U+7684"
+  },
+  {
+    "id": 9,
+    "character": "名",
+    "unicode": "U+540D"
+  },
+  {
+    "id": 10,
+    "character": "画",
+    "unicode": "U+753B"
+  },
+  {
+    "id": 11,
+    "character": "之",
+    "unicode": "U+4E4B"
+  },
+  {
+    "id": 12,
+    "character": "旅",
+    "unicode": "U+65C5"
+  },
+  {
+    "id": 13,
+    "character": "。",
+    "unicode": "U+3002"
+  },
+  {
+    "id": 14,
+    "character": "第",
+    "unicode": "U+7B2C"
+  },
+  {
+    "id": 15,
+    "character": "一",
+    "unicode": "U+4E00"
+  },
+  {
+    "id": 16,
+    "character": "站",
+    "unicode": "U+7AD9"
+  },
+  {
+    "id": 17,
+    "character": "，",
+    "unicode": "U+FF0C"
+  },
+  {
+    "id": 18,
+    "character": "影",
+    "unicode": "U+5F71"
+  },
+  {
+    "id": 19,
+    "character": "初",
+    "unicode": "U+521D"
+  },
+  {
+    "id": 20,
+    "character": "见",
+    "unicode": "U+89C1"
+  },
+  {
+    "id": 21,
+    "character": "欣",
+    "unicode": "U+6B23"
+  },
+  {
+    "id": 22,
+    "character": "赏",
+    "unicode": "U+8D4F"
+  },
+  {
+    "id": 23,
+    "character": "莫",
+    "unicode": "U+83AB"
+  },
+  {
+    "id": 24,
+    "character": "奈",
+    "unicode": "U+5948"
+  },
+  {
+    "id": 25,
+    "character": "埃",
+    "unicode": "U+57C3"
+  },
+  {
+    "id": 26,
+    "character": "特",
+    "unicode": "U+7279"
+  },
+  {
+    "id": 27,
+    "character": "勒",
+    "unicode": "U+52D2"
+  },
+  {
+    "id": 28,
+    "character": "塔",
+    "unicode": "U+5854"
+  },
+  {
+    "id": 29,
+    "character": "大",
+    "unicode": "U+5927"
+  },
+  {
+    "id": 30,
+    "character": "拱",
+    "unicode": "U+62F1"
+  },
+  {
+    "id": 31,
+    "character": "门",
+    "unicode": "U+95E8"
+  },
+  {
+    "id": 32,
+    "character": "请",
+    "unicode": "U+8BF7"
+  },
+  {
+    "id": 33,
+    "character": "留",
+    "unicode": "U+7559"
+  },
+  {
+    "id": 34,
+    "character": "意",
+    "unicode": "U+610F"
+  },
+  {
+    "id": 35,
+    "character": "岩",
+    "unicode": "U+5CA9"
+  },
+  {
+    "id": 36,
+    "character": "岸",
+    "unicode": "U+5CB8"
+  },
+  {
+    "id": 37,
+    "character": "明",
+    "unicode": "U+660E"
+  },
+  {
+    "id": 38,
+    "character": "暗",
+    "unicode": "U+6697"
+  },
+  {
+    "id": 39,
+    "character": "变",
+    "unicode": "U+53D8"
+  },
+  {
+    "id": 40,
+    "character": "化",
+    "unicode": "U+5316"
+  },
+  {
+    "id": 41,
+    "character": "以",
+    "unicode": "U+4EE5"
+  },
+  {
+    "id": 42,
+    "character": "及",
+    "unicode": "U+53CA"
+  },
+  {
+    "id": 43,
+    "character": "海",
+    "unicode": "U+6D77"
+  },
+  {
+    "id": 44,
+    "character": "面",
+    "unicode": "U+9762"
+  },
+  {
+    "id": 45,
+    "character": "蓝",
+    "unicode": "U+84DD"
+  },
+  {
+    "id": 46,
+    "character": "绿",
+    "unicode": "U+7EFF"
+  },
+  {
+    "id": 47,
+    "character": "交",
+    "unicode": "U+4EA4"
+  },
+  {
+    "id": 48,
+    "character": "织",
+    "unicode": "U+7EC7"
+  },
+  {
+    "id": 49,
+    "character": "彩",
+    "unicode": "U+5F69"
+  },
+  {
+    "id": 50,
+    "character": "看",
+    "unicode": "U+770B"
+  },
+  {
+    "id": 51,
+    "character": "家",
+    "unicode": "U+5BB6"
+  },
+  {
+    "id": 52,
+    "character": "怎",
+    "unicode": "U+600E"
+  },
+  {
+    "id": 53,
+    "character": "样",
+    "unicode": "U+6837"
+  },
+  {
+    "id": 54,
+    "character": "用",
+    "unicode": "U+7528"
+  },
+  {
+    "id": 55,
+    "character": "线",
+    "unicode": "U+7EBF"
+  },
+  {
+    "id": 56,
+    "character": "表",
+    "unicode": "U+8868"
+  },
+  {
+    "id": 57,
+    "character": "现",
+    "unicode": "U+73B0"
+  },
+  {
+    "id": 58,
+    "character": "自",
+    "unicode": "U+81EA"
+  },
+  {
+    "id": 59,
+    "character": "然",
+    "unicode": "U+7136"
+  },
+  {
+    "id": 60,
+    "character": "二",
+    "unicode": "U+4E8C"
+  },
+  {
+    "id": 61,
+    "character": "浪",
+    "unicode": "U+6D6A"
+  },
+  {
+    "id": 62,
+    "character": "潮",
+    "unicode": "U+6F6E"
+  },
+  {
+    "id": 63,
+    "character": "律",
+    "unicode": "U+5F8B"
+  },
+  {
+    "id": 64,
+    "character": "动",
+    "unicode": "U+52A8"
+  },
+  {
+    "id": 65,
+    "character": "北",
+    "unicode": "U+5317"
+  },
+  {
+    "id": 66,
+    "character": "斋",
+    "unicode": "U+658B"
+  },
+  {
+    "id": 67,
+    "character": "神",
+    "unicode": "U+795E"
+  },
+  {
+    "id": 68,
+    "character": "川",
+    "unicode": "U+5DDD"
+  },
+  {
+    "id": 69,
+    "character": "冲",
+    "unicode": "U+51B2"
+  },
+  {
+    "id": 70,
+    "character": "里",
+    "unicode": "U+91CC"
+  },
+  {
+    "id": 71,
+    "character": "巨",
+    "unicode": "U+5DE8"
+  },
+  {
+    "id": 72,
+    "character": "卷",
+    "unicode": "U+5377"
+  },
+  {
+    "id": 73,
+    "character": "起",
+    "unicode": "U+8D77"
+  },
+  {
+    "id": 74,
+    "character": "小",
+    "unicode": "U+5C0F"
+  },
+  {
+    "id": 75,
+    "character": "船",
+    "unicode": "U+8239"
+  },
+  {
+    "id": 76,
+    "character": "在",
+    "unicode": "U+5728"
+  },
+  {
+    "id": 77,
+    "character": "间",
+    "unicode": "U+95F4"
+  },
+  {
+    "id": 78,
+    "character": "前",
+    "unicode": "U+524D"
+  },
+  {
+    "id": 79,
+    "character": "行",
+    "unicode": "U+884C"
+  },
+  {
+    "id": 80,
+    "character": "比",
+    "unicode": "U+6BD4"
+  },
+  {
+    "id": 81,
+    "character": "较",
+    "unicode": "U+8F83"
+  },
+  {
+    "id": 82,
+    "character": "近",
+    "unicode": "U+8FD1"
+  },
+  {
+    "id": 83,
+    "character": "处",
+    "unicode": "U+5904"
+  },
+  {
+    "id": 84,
+    "character": "远",
+    "unicode": "U+8FDC"
+  },
+  {
+    "id": 85,
+    "character": "方",
+    "unicode": "U+65B9"
+  },
+  {
+    "id": 86,
+    "character": "富",
+    "unicode": "U+5BCC"
+  },
+  {
+    "id": 87,
+    "character": "士",
+    "unicode": "U+58EB"
+  },
+  {
+    "id": 88,
+    "character": "山",
+    "unicode": "U+5C71"
+  },
+  {
+    "id": 89,
+    "character": "弯",
+    "unicode": "U+5F2F"
+  },
+  {
+    "id": 90,
+    "character": "曲",
+    "unicode": "U+66F2"
+  },
+  {
+    "id": 91,
+    "character": "花",
+    "unicode": "U+82B1"
+  },
+  {
+    "id": 92,
+    "character": "条",
+    "unicode": "U+6761"
+  },
+  {
+    "id": 93,
+    "character": "感",
+    "unicode": "U+611F"
+  },
+  {
+    "id": 94,
+    "character": "受",
+    "unicode": "U+53D7"
+  },
+  {
+    "id": 95,
+    "character": "中",
+    "unicode": "U+4E2D"
+  },
+  {
+    "id": 96,
+    "character": "节",
+    "unicode": "U+8282"
+  },
+  {
+    "id": 97,
+    "character": "奏",
+    "unicode": "U+594F"
+  },
+  {
+    "id": 98,
+    "character": "力",
+    "unicode": "U+529B"
+  },
+  {
+    "id": 99,
+    "character": "量",
+    "unicode": "U+91CF"
+  },
+  {
+    "id": 100,
+    "character": "三",
+    "unicode": "U+4E09"
+  },
+  {
+    "id": 101,
+    "character": "情",
+    "unicode": "U+60C5"
+  },
+  {
+    "id": 102,
+    "character": "绪",
+    "unicode": "U+7EEA"
+  },
+  {
+    "id": 103,
+    "character": "梵",
+    "unicode": "U+68B5"
+  },
+  {
+    "id": 104,
+    "character": "高",
+    "unicode": "U+9AD8"
+  },
+  {
+    "id": 105,
+    "character": "麦",
+    "unicode": "U+9EA6"
+  },
+  {
+    "id": 106,
+    "character": "田",
+    "unicode": "U+7530"
+  },
+  {
+    "id": 107,
+    "character": "柏",
+    "unicode": "U+67CF"
+  },
+  {
+    "id": 108,
+    "character": "树",
+    "unicode": "U+6811"
+  },
+  {
+    "id": 109,
+    "character": "金",
+    "unicode": "U+91D1"
+  },
+  {
+    "id": 110,
+    "character": "黄",
+    "unicode": "U+9EC4"
+  },
+  {
+    "id": 111,
+    "character": "、",
+    "unicode": "U+3001"
+  },
+  {
+    "id": 112,
+    "character": "深",
+    "unicode": "U+6DF1"
+  },
+  {
+    "id": 113,
+    "character": "天",
+    "unicode": "U+5929"
+  },
+  {
+    "id": 114,
+    "character": "空",
+    "unicode": "U+7A7A"
+  },
+  {
+    "id": 115,
+    "character": "旋",
+    "unicode": "U+65CB"
+  },
+  {
+    "id": 116,
+    "character": "转",
+    "unicode": "U+8F6C"
+  },
+  {
+    "id": 117,
+    "character": "笔",
+    "unicode": "U+7B14"
+  },
+  {
+    "id": 118,
+    "character": "触",
+    "unicode": "U+89E6"
+  },
+  {
+    "id": 119,
+    "character": "呼",
+    "unicode": "U+547C"
+  },
+  {
+    "id": 120,
+    "character": "应",
+    "unicode": "U+5E94"
+  },
+  {
+    "id": 121,
+    "character": "云",
+    "unicode": "U+4E91"
+  },
+  {
+    "id": 122,
+    "character": "朵",
+    "unicode": "U+6735"
+  },
+  {
+    "id": 123,
+    "character": "木",
+    "unicode": "U+6728"
+  },
+  {
+    "id": 124,
+    "character": "流",
+    "unicode": "U+6D41"
+  },
+  {
+    "id": 125,
+    "character": "如",
+    "unicode": "U+5982"
+  },
+  {
+    "id": 126,
+    "character": "何",
+    "unicode": "U+4F55"
+  },
+  {
+    "id": 127,
+    "character": "达",
+    "unicode": "U+8FBE"
+  },
+  {
+    "id": 128,
+    "character": "最",
+    "unicode": "U+6700"
+  },
+  {
+    "id": 129,
+    "character": "后",
+    "unicode": "U+540E"
+  },
+  {
+    "id": 130,
+    "character": "理",
+    "unicode": "U+7406"
+  },
+  {
+    "id": 131,
+    "character": "性",
+    "unicode": "U+6027"
+  },
+  {
+    "id": 132,
+    "character": "回",
+    "unicode": "U+56DE"
+  },
+  {
+    "id": 133,
+    "character": "响",
+    "unicode": "U+54CD"
+  },
+  {
+    "id": 134,
+    "character": "卫",
+    "unicode": "U+536B"
+  },
+  {
+    "id": 135,
+    "character": "苏",
+    "unicode": "U+82CF"
+  },
+  {
+    "id": 136,
+    "character": "格",
+    "unicode": "U+683C"
+  },
+  {
+    "id": 137,
+    "character": "拉",
+    "unicode": "U+62C9"
+  },
+  {
+    "id": 138,
+    "character": "底",
+    "unicode": "U+5E95"
+  },
+  {
+    "id": 139,
+    "character": "死",
+    "unicode": "U+6B7B"
+  },
+  {
+    "id": 140,
+    "character": "人",
+    "unicode": "U+4EBA"
+  },
+  {
+    "id": 141,
+    "character": "物",
+    "unicode": "U+7269"
+  },
+  {
+    "id": 142,
+    "character": "手",
+    "unicode": "U+624B"
+  },
+  {
+    "id": 143,
+    "character": "势",
+    "unicode": "U+52BF"
+  },
+  {
+    "id": 144,
+    "character": "群",
+    "unicode": "U+7FA4"
+  },
+  {
+    "id": 145,
+    "character": "像",
+    "unicode": "U+50CF"
+  },
+  {
+    "id": 146,
+    "character": "布",
+    "unicode": "U+5E03"
+  },
+  {
+    "id": 147,
+    "character": "局",
+    "unicode": "U+5C40"
+  },
+  {
+    "id": 148,
+    "character": "引",
+    "unicode": "U+5F15"
+  },
+  {
+    "id": 149,
+    "character": "导",
+    "unicode": "U+5BFC"
+  },
+  {
+    "id": 150,
+    "character": "我",
+    "unicode": "U+6211"
+  },
+  {
+    "id": 151,
+    "character": "们",
+    "unicode": "U+4EEC"
+  },
+  {
+    "id": 152,
+    "character": "从",
+    "unicode": "U+4ECE"
+  },
+  {
+    "id": 153,
+    "character": "向",
+    "unicode": "U+5411"
+  },
+  {
+    "id": 154,
+    "character": "思",
+    "unicode": "U+601D"
+  },
+  {
+    "id": 155,
+    "character": "想",
+    "unicode": "U+60F3"
+  },
+  {
+    "id": 156,
+    "character": "观",
+    "unicode": "U+89C2"
+  },
+  {
+    "id": 157,
+    "character": "察",
+    "unicode": "U+5BDF"
+  },
+  {
+    "id": 158,
+    "character": "举",
+    "unicode": "U+4E3E"
+  },
+  {
+    "id": 159,
+    "character": "信",
+    "unicode": "U+4FE1"
+  },
+  {
+    "id": 160,
+    "character": "念",
+    "unicode": "U+5FF5"
+  },
+  {
+    "id": 161,
+    "character": "克",
+    "unicode": "U+514B"
+  },
+  {
+    "id": 162,
+    "character": "劳",
+    "unicode": "U+52B3"
+  },
+  {
+    "id": 163,
+    "character": "德",
+    "unicode": "U+5FB7"
+  },
+  {
+    "id": 164,
+    "character": "·",
+    "unicode": "U+00B7"
+  },
+  {
+    "id": 165,
+    "character": "1",
+    "unicode": "U+0031"
+  },
+  {
+    "id": 166,
+    "character": "8",
+    "unicode": "U+0038"
+  },
+  {
+    "id": 167,
+    "character": "2",
+    "unicode": "U+0032"
+  },
+  {
+    "id": 168,
+    "character": "葛",
+    "unicode": "U+845B"
+  },
+  {
+    "id": 169,
+    "character": "饰",
+    "unicode": "U+9970"
+  },
+  {
+    "id": 170,
+    "character": "约",
+    "unicode": "U+7EA6"
+  },
+  {
+    "id": 171,
+    "character": "3",
+    "unicode": "U+0033"
+  },
+  {
+    "id": 172,
+    "character": "0",
+    "unicode": "U+0030"
+  },
+  {
+    "id": 173,
+    "character": "-",
+    "unicode": "U+002D"
+  },
+  {
+    "id": 174,
+    "character": "文",
+    "unicode": "U+6587"
+  },
+  {
+    "id": 175,
+    "character": "森",
+    "unicode": "U+68EE"
+  },
+  {
+    "id": 176,
+    "character": "9",
+    "unicode": "U+0039"
+  },
+  {
+    "id": 177,
+    "character": "雅",
+    "unicode": "U+96C5"
+  },
+  {
+    "id": 178,
+    "character": "路",
+    "unicode": "U+8DEF"
+  },
+  {
+    "id": 179,
+    "character": "易",
+    "unicode": "U+6613"
+  },
+  {
+    "id": 180,
+    "character": "7",
+    "unicode": "U+0037"
+  },
+  {
+    "id": 181,
+    "character": "：",
+    "unicode": "U+FF1A"
+  },
+  {
+    "id": 182,
+    "character": "和",
+    "unicode": "U+548C"
+  }
+]

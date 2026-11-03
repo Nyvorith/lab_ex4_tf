@@ -1,0 +1,6 @@
+PASS refactored transition: frozen-reference outputs at 0/1/4/16 frames, auto identities, manual success/failure, inactive player, CDC rapid pulses, reset
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_transition_refactor.sv:76: $finish called at 25012000 (1ps)
+PASS waveform refactor: old-reference pixel equivalence for DECIMATE 1/12; full/partial frames, signed extremes/remainders, stalls, blanking and enable; DECIMATE300 interval and publication
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_waveform_refactor.sv:97: $finish called at 877750000 (1ps)
+PASS OSD refactor: four modes, packed digit rows, 512 status combinations, full glyph raster, frame latch, blanking, colors, offsets and reset
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_status_osd_refactor.sv:56: $finish called at 716841000 (1ps)

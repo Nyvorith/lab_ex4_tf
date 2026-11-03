@@ -1,0 +1,6 @@
+PASS narration catalog: BMP read-only/no-archive accepted, directory/volume excluded, shuffled names, root second sector, missing/empty/directory, legacy independence, rescan
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim/tb_narration_catalog.sv:53: $finish called at 31136000 (1ps)
+PASS narration FAT: cluster10 -> cluster30, FAT LBA, exact514 bytes, final sector padding excluded
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim/tb_narration_fat.sv:18: $finish called at 15661000 (1ps)
+PASS narration top: default mute, short/long isolation, in-flight switch, correct track, missing file, once, auto bypasses audio wait, auto quiet overview, no new PCM reads, manual current-track restart, mute preference, preview, mute
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim/tb_narration_top.sv:86: $finish called at 675240000 (1ps)

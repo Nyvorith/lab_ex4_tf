@@ -1,0 +1,6 @@
+PASS preview card: 247296 exact pixels, four focus identities, three text rows, borders, no wrap, full-view/invalid/blanking hiding and RGB/HS/VS/DE pipeline
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_preview_card.sv:72: $finish called at 7499156000 (1ps)
+PASS card thumbnails: four distinct caches, 192x144 aspect-preserving layout, native sample boundaries, row ends, vertical flip, stalls, restart, RGB565, synchronous read, focus and placeholders
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_card_thumbnail.sv:72: $finish called at 12637571000 (1ps)
+PASS card top: four focus bindings at frame boundaries, active preview integration, final HDMI card color and full-view hiding
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_card_top.sv:38: $finish called at 1800000 (1ps)

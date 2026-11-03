@@ -1,0 +1,6 @@
+PASS caption: 214168 pixels/cycles, four pictures, wrap=4 carry=4164, sync alignment, preview, no-commit retention
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_exhibit_caption.sv:115: $finish called at 2141710000 (1ps)
+PASS artwork label: 62737 pixels, four artwork bindings, fade wait, exact expiry, no failed-load replacement, preview return, blanking, sync alignment, reset
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_artwork_label.sv:88: $finish called at 1884890000 (1ps)
+PASS top caption: successful/failed commits, boundary race, same reader bank, normalized x/y, preview bypass, RGB/HS/VS/DE alignment, mute defaults
+D:\Users\fish\Desktop\code\lab_ex4_tf\src\sim\tb_top_exhibit_caption.sv:168: $finish called at 46660000 (1ps)

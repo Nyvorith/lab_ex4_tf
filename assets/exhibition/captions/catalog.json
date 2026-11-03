@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "content_status": "光与色：从自然到思想；莫奈开场，四站主题导览",
+  "font_size_px": 15,
+  "cell_width": 16,
+  "cell_height": 16,
+  "extra_characters": "",
+  "text_stride": 128,
+  "preview_background_dir": "release/final_waveform_20261101/tf_card",
+  "captions": [
+    {
+      "picture": "PIC1.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO1.txt",
+      "artwork_label": [
+        "埃特勒塔的大拱门",
+        "克劳德·莫奈 1882"
+      ],
+      "preview_lookpoint": "光影初见：留意岩岸明暗与海面色彩"
+    },
+    {
+      "picture": "PIC2.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO2.txt",
+      "artwork_label": [
+        "神奈川冲浪里",
+        "葛饰北斋 约1830-1832"
+      ],
+      "preview_lookpoint": "浪潮律动：比较近处巨浪与远方富士山"
+    },
+    {
+      "picture": "PIC3.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO3.txt",
+      "artwork_label": [
+        "麦田与柏树",
+        "文森特·梵高 1889"
+      ],
+      "preview_lookpoint": "色彩情绪：观察云朵和树木的流动线条"
+    },
+    {
+      "picture": "PIC4.BMP",
+      "text_file": "assets/exhibition/narration/AUDIO4.txt",
+      "artwork_label": [
+        "苏格拉底之死",
+        "雅克·路易·大卫 1787"
+      ],
+      "preview_lookpoint": "理性回响：观察人物手势与群像布局"
+    }
+  ],
+  "glyph_limit": 256
+}
